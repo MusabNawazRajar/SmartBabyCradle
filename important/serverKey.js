@@ -1,0 +1,2 @@
+export const serverKey =
+  'AAAA5dcX9vw:APA91bEiTTK8uk7l4nSsBO8vsEPY6wCm4GzOks8EY62HA1EuQpx0I_w9srVagYL48Anuqk-VfhEVKTlI52p5aWg5tCxyVzzPdmijy6ziy71y7rNw9K_3TdSzSikf-ny1YxtlpCXXbZWF';
